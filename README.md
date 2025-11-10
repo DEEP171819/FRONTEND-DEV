@@ -34,6 +34,7 @@ Every folder and branch represents one step forward in mastering the art of web 
 | **07. Box Model & Borders** | Understanding spacing and design boundaries |
 | **08. Animations & Pseudo-Classes** | Interactive UI and transitions |
 | **09. Responsive Web Design** | Media queries and adaptive layouts |
+| **10. Bootstrap Components and Layout** | **Easy Code** |
 
 ---
 
@@ -60,7 +61,10 @@ Frontend-Development/
 ├── flexbox-grid/
 ├── css-model/
 ├── animations/
-└── responsive-design/
+├── responsive-design/
+├── bootstrap-basics/
+└── javascript-fundamentals/
+
 ```
 
 ---
