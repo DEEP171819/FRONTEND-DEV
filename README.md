@@ -129,7 +129,7 @@ Frontend-Development/
 
 - **Editor:** Visual Studio Code (with Live Server)  
 - **Version Control:** Git & GitHub  
-- **Languages:** HTML5, CSS3  
+- **Languages:** HTML, CSS  , JAVASCRIPT 
 - **Design Tools:** Flexbox, Grid, Animations  
 
 ---
