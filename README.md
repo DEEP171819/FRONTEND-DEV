@@ -5,7 +5,7 @@
 
 ## 🔗 Old Repository
 You can find my previous frontend development work here:  
-[👉 FRONTEND-DEV Repository](https://github.com/DEEP171819/FRONTEND-DEV.git)
+[👉 FRONTEND-DEV Repository](https://github.com/DEEP171819/FrontEnd-Dev.git)
 
 
 ---
