@@ -1,6 +1,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=500&lines=FrontEnd-Dev+%3A+Deepak+Singh" alt="Typing SVG" /></a>
 
+---
+
+## 🔗 Old Repository
+You can find my previous frontend development work here:  
+[👉 FRONTEND-DEV Repository](https://github.com/DEEP171819/FRONTEND-DEV.git)
+
 
 ---
 <h1 align="center">🎨 Frontend Development — My Creative Journey 🚀</h1>
