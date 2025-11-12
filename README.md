@@ -1,5 +1,8 @@
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=500&lines=FrontEnd-Dev+%3A+Deepak+Singh" alt="Typing SVG" /></a>
 
+
+---
 <h1 align="center">🎨 Frontend Development — My Creative Journey 🚀</h1>
 
 <p align="center">
